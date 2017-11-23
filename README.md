@@ -1,6 +1,6 @@
 ﻿# Türkiye İl - ilçe Veritabanı 2017
 
-Güncel 08.06.2017
+Güncel 28.09.2017
 
 * İl
 * İlçe
